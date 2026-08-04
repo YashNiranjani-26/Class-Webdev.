@@ -1,0 +1,11 @@
+.ptag {
+	color:#0000ff;
+	display:flex;
+	justify-content:center;
+	font-style:italic;
+}
+
+
+.marktag{
+	background-color:blue;
+}
