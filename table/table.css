@@ -1,0 +1,33 @@
+*{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.tablebox{
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    padding: 5px;
+    background-color: burlywood;
+    border: dotted seagreen;
+}
+
+th{
+    border: solid;
+    font-weight: 700;
+}
+
+.bikename {
+    background-color: 99703c;
+    color: #fff;
+}
+
+td{
+    border: solid blueviolet;
+}
+
+
+
+
