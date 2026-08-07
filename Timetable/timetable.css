@@ -1,0 +1,17 @@
+*{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.table-align{
+    display: flex;
+    justify-content: center;
+}
+
+td{
+    text-align: center;
+}
+
+.time{
+    font-weight: 700;
+}
