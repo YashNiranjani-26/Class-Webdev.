@@ -1,0 +1,25 @@
+* {
+    font-size: 19px;
+}
+
+.tablebox{
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    border: solid black;
+}
+
+.header{
+    background-color: #ff0000;
+    color: #fff;
+}
+
+.colone {
+    background-color: yellow;
+}
+
+.coltwo{
+    background-color: yellowgreen;
+}
