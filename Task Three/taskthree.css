@@ -1,0 +1,34 @@
+*{
+    font-family: sans-serif;
+}
+
+.image-aligner{
+    display: flex;
+    justify-content: space-between;
+}
+
+.tablebox{
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    padding: 5px;
+    background-color: #e9a94b;
+    border: dotted seagreen;
+}
+
+th{
+    border: solid;
+    font-weight: 700;
+}
+
+.bikename {
+    background-color: 99703c;
+    color: #fff;
+}
+
+td{
+    border: solid blueviolet;
+}
+
