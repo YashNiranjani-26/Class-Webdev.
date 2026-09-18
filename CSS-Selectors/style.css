@@ -1,0 +1,32 @@
+h1{
+    background: linear-gradient(90deg, #ff0080, #0575e6);
+    color: white;
+    padding: 5px;
+}
+
+.ptaga{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+    text-shadow: 5px 5px 10px blue;
+    text-transform: uppercase;
+}
+.paligner{
+    display: flex;
+    justify-content: center;
+}
+
+.ptagb{
+    height: 350px;
+    width: 950px;
+    font-size: x-large;
+    border: 5px dotted blue;
+    overflow-y: auto;
+    text-align: center;
+    color: #fff;
+    background: linear-gradient(90deg, #00c6ff, #0072ff,#8e2de2);
+    line-height: 22px;
+}
+
+.ptagb::-webkit-scrollbar{
+    display: none;
+}
