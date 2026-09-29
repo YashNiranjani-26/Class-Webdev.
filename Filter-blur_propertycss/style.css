@@ -1,0 +1,27 @@
+body {
+    background-image: url("audi.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+*{
+    text-align: center;
+    color: #fff;    
+}
+.heading_align{
+    display: flex;
+    justify-content: center;
+}
+.main_head{
+    backdrop-filter: blur(30px);
+    font-size: 35px;
+    font-weight: 700;
+    border: solid;
+    border-radius: 18px;
+    width: 630px;
+}
+.main_border{
+    backdrop-filter: blur(50px);
+    border:dashed;
+    border-radius: 20px;    
+}
